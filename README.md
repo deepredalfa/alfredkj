@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alfred
 - 👀 I’m interested in Full stack development, API management, Concurrent programming
 - 🌱 I’m currently learning  Kafka, Node.js, Pinot
-- 💞️ I’m looking to collaborate on Back development, Streaming applications
+- 💞️ I’m looking forward to collaborate on back end development, streaming applications
 - 📫 How to reach me: hirealfred@gmail.com
 
 <!---
